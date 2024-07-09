@@ -1,0 +1,151 @@
+CustomerID,FirstName,LastName,Email,SignupDate,MonthlyIncome
+1,Alice,Johnson,alice.johnson@example.com,2021-05-10,4000.0
+2,Bob,Williams,bob.williams@example.com,2020-11-01,3500.0
+3,Robert,Smith,robert.smith@example.com,2019-07-15,4500.0
+4,Mary,Davis,mary.davis@example.com,2018-12-30,3200.0
+5,James,Garcia,james.garcia@example.com,2022-01-18,4800.0
+6,Jennifer,Martinez,jennifer.martinez@example.com,2021-03-05,4200.0
+7,Patricia,Hernandez,patricia.hernandez@example.com,2020-06-23,3900.0
+8,Linda,Lopez,linda.lopez@example.com,2019-10-12,3700.0
+9,Michael,Gonzalez,michael.gonzalez@example.com,2018-05-17,4500.0
+10,Sarah,Wilson,sarah.wilson@example.com,2022-02-09,4300.0
+11,David,Anderson,david.anderson@example.com,2021-07-11,4100.0
+12,Richard,Thomas,richard.thomas@example.com,2020-03-29,3900.0
+13,Susan,Taylor,susan.taylor@example.com,2019-08-14,4000.0
+14,Joseph,Moore,joseph.moore@example.com,2018-01-27,3800.0
+15,Karen,Jackson,karen.jackson@example.com,2021-09-05,4200.0
+16,Thomas,Martin,thomas.martin@example.com,2020-12-15,4100.0
+17,Betty,Lee,betty.lee@example.com,2019-11-21,3500.0
+18,Charles,Perez,charles.perez@example.com,2018-04-30,4400.0
+19,Jessica,Thompson,jessica.thompson@example.com,2022-01-02,4600.0
+20,George,White,george.white@example.com,2021-08-18,4200.0
+21,Barbara,Harris,barbara.harris@example.com,2020-05-10,4000.0
+22,Daniel,Sanchez,daniel.sanchez@example.com,2019-06-16,3900.0
+23,Sandra,Clark,sandra.clark@example.com,2018-11-09,4100.0
+24,Matthew,Ramirez,matthew.ramirez@example.com,2021-02-22,3700.0
+25,Ashley,Lewis,ashley.lewis@example.com,2020-08-13,4300.0
+26,Mark,Robinson,mark.robinson@example.com,2019-03-26,4500.0
+27,Linda,Walker,linda.walker@example.com,2018-07-15,4000.0
+28,Steven,Young,steven.young@example.com,2022-01-27,3900.0
+29,Donna,Allen,donna.allen@example.com,2021-06-07,4200.0
+30,Carol,King,carol.king@example.com,2020-02-28,4100.0
+31,George,Wright,george.wright@example.com,2019-10-05,3500.0
+32,Helen,Scott,helen.scott@example.com,2018-08-19,4400.0
+33,Kenneth,Green,kenneth.green@example.com,2021-01-12,4600.0
+34,Emily,Baker,emily.baker@example.com,2020-11-20,4200.0
+35,Joshua,Adams,joshua.adams@example.com,2019-05-04,4000.0
+36,Laura,Nelson,laura.nelson@example.com,2018-12-23,3700.0
+37,Kevin,Hill,kevin.hill@example.com,2021-07-26,4300.0
+38,Amy,Ramirez,amy.ramirez@example.com,2020-04-11,4500.0
+39,Brian,Campbell,brian.campbell@example.com,2019-09-02,3900.0
+40,Angela,Mitchell,angela.mitchell@example.com,2018-06-14,4200.0
+41,Edward,Roberts,edward.roberts@example.com,2021-03-19,4100.0
+42,Rebecca,Carter,rebecca.carter@example.com,2020-01-25,3500.0
+43,Michelle,Phillips,michelle.phillips@example.com,2019-07-28,4400.0
+44,Jason,Parker,jason.parker@example.com,2018-03-11,4600.0
+45,Gary,Evans,gary.evans@example.com,2021-02-14,4200.0
+46,Helen,Edwards,helen.edwards@example.com,2020-05-27,4000.0
+47,Scott,Collins,scott.collins@example.com,2019-12-04,3700.0
+48,Sharon,Stewart,sharon.stewart@example.com,2018-09-25,4300.0
+49,Eric,Sanchez,eric.sanchez@example.com,2021-06-30,4500.0
+50,Nancy,Morris,nancy.morris@example.com,2020-03-09,3900.0
+1,Alice,Johnson,alice.johnson@example.com,2021-05-10,4000.0
+2,Bob,Williams,bob.williams@example.com,2020-11-01,3500.0
+3,Robert,Smith,robert.smith@example.com,2019-07-15,4500.0
+4,Mary,Davis,mary.davis@example.com,2018-12-30,3200.0
+5,James,Garcia,james.garcia@example.com,2022-01-18,4800.0
+6,Jennifer,Martinez,jennifer.martinez@example.com,2021-03-05,4200.0
+7,Patricia,Hernandez,patricia.hernandez@example.com,2020-06-23,3900.0
+8,Linda,Lopez,linda.lopez@example.com,2019-10-12,3700.0
+9,Michael,Gonzalez,michael.gonzalez@example.com,2018-05-17,4500.0
+10,Sarah,Wilson,sarah.wilson@example.com,2022-02-09,4300.0
+11,David,Anderson,david.anderson@example.com,2021-07-11,4100.0
+12,Richard,Thomas,richard.thomas@example.com,2020-03-29,3900.0
+13,Susan,Taylor,susan.taylor@example.com,2019-08-14,4000.0
+14,Joseph,Moore,joseph.moore@example.com,2018-01-27,3800.0
+15,Karen,Jackson,karen.jackson@example.com,2021-09-05,4200.0
+16,Thomas,Martin,thomas.martin@example.com,2020-12-15,4100.0
+17,Betty,Lee,betty.lee@example.com,2019-11-21,3500.0
+18,Charles,Perez,charles.perez@example.com,2018-04-30,4400.0
+19,Jessica,Thompson,jessica.thompson@example.com,2022-01-02,4600.0
+20,George,White,george.white@example.com,2021-08-18,4200.0
+21,Barbara,Harris,barbara.harris@example.com,2020-05-10,4000.0
+22,Daniel,Sanchez,daniel.sanchez@example.com,2019-06-16,3900.0
+23,Sandra,Clark,sandra.clark@example.com,2018-11-09,4100.0
+24,Matthew,Ramirez,matthew.ramirez@example.com,2021-02-22,3700.0
+25,Ashley,Lewis,ashley.lewis@example.com,2020-08-13,4300.0
+26,Mark,Robinson,mark.robinson@example.com,2019-03-26,4500.0
+27,Linda,Walker,linda.walker@example.com,2018-07-15,4000.0
+28,Steven,Young,steven.young@example.com,2022-01-27,3900.0
+29,Donna,Allen,donna.allen@example.com,2021-06-07,4200.0
+30,Carol,King,carol.king@example.com,2020-02-28,4100.0
+31,George,Wright,george.wright@example.com,2019-10-05,3500.0
+32,Helen,Scott,helen.scott@example.com,2018-08-19,4400.0
+33,Kenneth,Green,kenneth.green@example.com,2021-01-12,4600.0
+34,Emily,Baker,emily.baker@example.com,2020-11-20,4200.0
+35,Joshua,Adams,joshua.adams@example.com,2019-05-04,4000.0
+36,Laura,Nelson,laura.nelson@example.com,2018-12-23,3700.0
+37,Kevin,Hill,kevin.hill@example.com,2021-07-26,4300.0
+38,Amy,Ramirez,amy.ramirez@example.com,2020-04-11,4500.0
+39,Brian,Campbell,brian.campbell@example.com,2019-09-02,3900.0
+40,Angela,Mitchell,angela.mitchell@example.com,2018-06-14,4200.0
+41,Edward,Roberts,edward.roberts@example.com,2021-03-19,4100.0
+42,Rebecca,Carter,rebecca.carter@example.com,2020-01-25,3500.0
+43,Michelle,Phillips,michelle.phillips@example.com,2019-07-28,4400.0
+44,Jason,Parker,jason.parker@example.com,2018-03-11,4600.0
+45,Gary,Evans,gary.evans@example.com,2021-02-14,4200.0
+46,Helen,Edwards,helen.edwards@example.com,2020-05-27,4000.0
+47,Scott,Collins,scott.collins@example.com,2019-12-04,3700.0
+48,Sharon,Stewart,sharon.stewart@example.com,2018-09-25,4300.0
+49,Eric,Sanchez,eric.sanchez@example.com,2021-06-30,4500.0
+50,Nancy,Morris,nancy.morris@example.com,2020-03-09,3900.0
+18,Ruby,Phillips,ruby.phillips@example.com,2018-05-30 00:00:00,4900.0
+10,Jack,Allen,jack.allen@example.com,2021-02-14 00:00:00,4800.0
+2,Brian,Johnson,brian.johnson@example.com,2020-05-25 00:00:00,4800.0
+1,Amelia,Smith,amelia.smith@example.com,2021-03-15 00:00:00,4600.0
+5,Ella,Wilson,ella.wilson@example.com,2017-09-22 00:00:00,5300.0
+3,Clara,Brown,clara.brown@example.com,2019-07-20 00:00:00,5000.0
+24,Xavier,Stewart,xavier.stewart@example.com,2017-02-18 00:00:00,4600.0
+13,Mia,Scott,mia.scott@example.com,2019-05-19 00:00:00,4900.0
+4,David,Davis,david.davis@example.com,2021-01-28 00:00:00,5200.0
+6,Frank,Clark,frank.clark@example.com,2020-12-01 00:00:00,4700.0
+11,Kara,Young,kara.young@example.com,2015-12-24 00:00:00,5000.0
+7,Grace,Lewis,grace.lewis@example.com,2016-06-10 00:00:00,5100.0
+43,Quincy,Ramirez,quincy.ramirez@example.com,2019-09-22 00:00:00,5000.0
+9,Isla,Hall,isla.hall@example.com,2019-09-30 00:00:00,4600.0
+12,Leo,King,leo.king@example.com,2018-07-29 00:00:00,4800.0
+16,Paul,Mitchell,paul.mitchell@example.com,2019-06-15 00:00:00,4600.0
+17,Quinn,Roberts,quinn.roberts@example.com,2016-08-12 00:00:00,4800.0
+19,Steve,Campbell,steve.campbell@example.com,2021-03-13 00:00:00,5000.0
+35,Ian,Cooper,ian.cooper@example.com,2021-04-15 00:00:00,5000.0
+37,Kevin,Cox,kevin.cox@example.com,2018-11-14 00:00:00,4700.0
+42,Paula,Gray,paula.gray@example.com,2018-06-15 00:00:00,4900.0
+21,Uma,Evans,uma.evans@example.com,2018-10-17 00:00:00,4700.0
+33,George,Bailey,george.bailey@example.com,2018-02-25 00:00:00,4800.0
+40,Nina,Torres,nina.torres@example.com,2021-01-28 00:00:00,4600.0
+36,Julia,Richardson,julia.richardson@example.com,2017-10-08 00:00:00,4800.0
+50,Xander,Bennett,xander.bennett@example.com,2021-02-05 00:00:00,4900.0
+8,Henry,Walker,henry.walker@example.com,2018-04-25 00:00:00,4900.0
+23,Wendy,Collins,wendy.collins@example.com,2020-12-15 00:00:00,5300.0
+34,Hannah,Rivera,hannah.rivera@example.com,2019-06-12 00:00:00,4900.0
+47,Uma,Kelly,uma.kelly@example.com,2018-05-19 00:00:00,5300.0
+49,Wendy,Price,wendy.price@example.com,2020-12-19 00:00:00,4800.0
+30,Daisy,Morgan,daisy.morgan@example.com,2019-03-22 00:00:00,5100.0
+46,Tina,Brooks,tina.brooks@example.com,2017-04-17 00:00:00,5100.0
+28,Bella,Reed,bella.reed@example.com,2017-06-20 00:00:00,4800.0
+29,Carter,Cook,carter.cook@example.com,2018-12-05 00:00:00,4700.0
+31,Evan,Bell,evan.bell@example.com,2020-09-12 00:00:00,5300.0
+39,Mike,Ward,mike.ward@example.com,2020-07-24 00:00:00,5300.0
+14,Noah,Green,noah.green@example.com,2020-11-12 00:00:00,5100.0
+27,Alex,Rogers,alex.rogers@example.com,2020-04-08 00:00:00,5000.0
+41,Oscar,Peterson,oscar.peterson@example.com,2017-11-20 00:00:00,4800.0
+22,Victor,Edwards,victor.edwards@example.com,2019-07-29 00:00:00,5100.0
+44,Rachel,James,rachel.james@example.com,2020-03-11 00:00:00,4800.0
+25,Yara,Sanchez,yara.sanchez@example.com,2018-08-28 00:00:00,4800.0
+32,Fiona,Murphy,fiona.murphy@example.com,2017-07-21 00:00:00,4600.0
+38,Laura,Howard,laura.howard@example.com,2019-03-20 00:00:00,5100.0
+48,Victor,Sanders,victor.sanders@example.com,2019-08-21 00:00:00,4600.0
+15,Olivia,Adams,olivia.adams@example.com,2017-01-27 00:00:00,5300.0
+20,Tina,Parker,tina.parker@example.com,2017-12-21 00:00:00,4800.0
+26,Zane,Morris,zane.morris@example.com,2019-01-15 00:00:00,4900.0
+45,Sam,Watson,sam.watson@example.com,2021-07-19 00:00:00,4700.0

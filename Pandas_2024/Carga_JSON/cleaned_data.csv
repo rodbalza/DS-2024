@@ -1,0 +1,4 @@
+name,age,street,city,zipcode,company,skill_1,skill_2
+John Doe,30,123 Main St,New York,10001,Tech Solutions,Python,Data Analysis
+Jane Smith,25,456 Market St,San Francisco,94105,Tech Solutions,JavaScript,React
+Mike Johnson,35,789 Broadway,Los Angeles,90015,Tech Solutions,Java,Spring

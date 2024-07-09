@@ -1,0 +1,6 @@
+Go to your file and copy path
+Open Powershell from Anaconda Navigator 
+using cd go to folder file or paste the path copied
+
+finally execute the following command:
+jupyter nbconvert test.ipynb --to slides --no-prompt --TagRemovePreprocessor.remove_input_tags={\"to_remove\"} --post serve 
